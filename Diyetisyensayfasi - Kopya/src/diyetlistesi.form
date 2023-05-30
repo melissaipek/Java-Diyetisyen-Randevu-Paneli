@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.3" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JFrameFormInfo">
+  <Properties>
+    <Property name="defaultCloseOperation" type="int" value="3"/>
+  </Properties>
+  <SyntheticProperties>
+    <SyntheticProperty name="formSizePolicy" type="int" value="1"/>
+    <SyntheticProperty name="generateCenter" type="boolean" value="false"/>
+  </SyntheticProperties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" attributes="0">
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" alignment="0" attributes="0">
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="jScrollPane1" min="-2" pref="157" max="-2" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="jScrollPane2" min="-2" pref="139" max="-2" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="jScrollPane3" min="-2" pref="158" max="-2" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="jScrollPane4" min="-2" pref="123" max="-2" attributes="0"/>
+                  </Group>
+                  <Group type="102" alignment="0" attributes="0">
+                      <EmptySpace min="-2" pref="81" max="-2" attributes="0"/>
+                      <Component id="jScrollPane5" min="-2" pref="150" max="-2" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="jScrollPane6" min="-2" pref="143" max="-2" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="jScrollPane7" min="-2" pref="173" max="-2" attributes="0"/>
+                  </Group>
+              </Group>
+              <EmptySpace max="32767" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="1" attributes="0">
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                  <Component id="jScrollPane4" pref="182" max="32767" attributes="0"/>
+                  <Component id="jScrollPane2" alignment="0" max="32767" attributes="0"/>
+                  <Component id="jScrollPane3" alignment="1" max="32767" attributes="0"/>
+                  <Component id="jScrollPane1" max="32767" attributes="0"/>
+              </Group>
+              <EmptySpace type="unrelated" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Component id="jScrollPane6" max="32767" attributes="0"/>
+                  <Component id="jScrollPane7" max="32767" attributes="0"/>
+                  <Group type="102" alignment="0" attributes="0">
+                      <EmptySpace min="0" pref="0" max="32767" attributes="0"/>
+                      <Component id="jScrollPane5" min="-2" pref="167" max="-2" attributes="0"/>
+                  </Group>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Container class="javax.swing.JScrollPane" name="jScrollPane1">
+      <AuxValues>
+        <AuxValue name="autoScrollPane" type="java.lang.Boolean" value="true"/>
+      </AuxValues>
+
+      <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+      <SubComponents>
+        <Component class="javax.swing.JList" name="jList1">
+          <Properties>
+            <Property name="model" type="javax.swing.ListModel" editor="org.netbeans.modules.form.editors2.ListModelEditor">
+              <StringArray count="10">
+                <StringItem index="0" value="PAZARTES&#x130;"/>
+                <StringItem index="1" value="SABAH"/>
+                <StringItem index="2" value="&#x2022;1 kk light beyaz peynir"/>
+                <StringItem index="3" value="&#x2022;1 ha&#x15f;lanm&#x131;&#x15f; yumurta"/>
+                <StringItem index="4" value="&#xd6;&#x11e;LEN"/>
+                <StringItem index="5" value="&#x2022;1 porsiyon meyve"/>
+                <StringItem index="6" value="AK&#x15e;AM"/>
+                <StringItem index="7" value="&#x2022;Zeytinya&#x11f;l&#x131; sebze yeme&#x11f;i"/>
+                <StringItem index="8" value="&#x2022;Light yo&#x11f;urt"/>
+                <StringItem index="9" value=" "/>
+              </StringArray>
+            </Property>
+          </Properties>
+          <AuxValues>
+            <AuxValue name="JavaCodeGenerator_TypeParameters" type="java.lang.String" value="&lt;String&gt;"/>
+          </AuxValues>
+        </Component>
+      </SubComponents>
+    </Container>
+    <Container class="javax.swing.JScrollPane" name="jScrollPane2">
+      <AuxValues>
+        <AuxValue name="autoScrollPane" type="java.lang.Boolean" value="true"/>
+      </AuxValues>
+
+      <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+      <SubComponents>
+        <Component class="javax.swing.JList" name="jList2">
+          <Properties>
+            <Property name="model" type="javax.swing.ListModel" editor="org.netbeans.modules.form.editors2.ListModelEditor">
+              <StringArray count="9">
+                <StringItem index="0" value="SALI"/>
+                <StringItem index="1" value="SABAH"/>
+                <StringItem index="2" value="&#x2022;Ya&#x11f;s&#x131;z omlet"/>
+                <StringItem index="3" value="&#x2022;1 dilim peynir"/>
+                <StringItem index="4" value="&#xd6;&#x11e;LEN"/>
+                <StringItem index="5" value="&#x2022;Ye&#x15f;il mercimekli salata"/>
+                <StringItem index="6" value="AK&#x15e;AM"/>
+                <StringItem index="7" value="&#x2022;90 g f&#x131;r&#x131;nda &#x131;zgara"/>
+                <StringItem index="8" value="&#x2022;1 kep&#xe7;e &#xe7;orba"/>
+              </StringArray>
+            </Property>
+          </Properties>
+          <AuxValues>
+            <AuxValue name="JavaCodeGenerator_TypeParameters" type="java.lang.String" value="&lt;String&gt;"/>
+          </AuxValues>
+        </Component>
+      </SubComponents>
+    </Container>
+    <Container class="javax.swing.JScrollPane" name="jScrollPane3">
+      <AuxValues>
+        <AuxValue name="autoScrollPane" type="java.lang.Boolean" value="true"/>
+      </AuxValues>
+
+      <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+      <SubComponents>
+        <Component class="javax.swing.JList" name="jList3">
+          <Properties>
+            <Property name="model" type="javax.swing.ListModel" editor="org.netbeans.modules.form.editors2.ListModelEditor">
+              <StringArray count="9">
+                <StringItem index="0" value="&#xc7;AR&#x15e;AMBA"/>
+                <StringItem index="1" value="SABAH"/>
+                <StringItem index="2" value="&#x2022;Tar&#xe7;&#x131;nl&#x131; m&#xfc;sli"/>
+                <StringItem index="3" value="&#x2022;Light s&#xfc;t"/>
+                <StringItem index="4" value="&#xd6;&#x11e;LEN"/>
+                <StringItem index="5" value="&#x2022;Mevsim salata"/>
+                <StringItem index="6" value="AK&#x15e;AM"/>
+                <StringItem index="7" value="&#x2022;Ha&#x15f;lanm&#x131;&#x15f; sebze"/>
+                <StringItem index="8" value="&#x2022;S&#xf6;&#x11f;&#xfc;&#x15f; salata"/>
+              </StringArray>
+            </Property>
+          </Properties>
+          <AuxValues>
+            <AuxValue name="JavaCodeGenerator_TypeParameters" type="java.lang.String" value="&lt;String&gt;"/>
+          </AuxValues>
+        </Component>
+      </SubComponents>
+    </Container>
+    <Container class="javax.swing.JScrollPane" name="jScrollPane4">
+      <AuxValues>
+        <AuxValue name="autoScrollPane" type="java.lang.Boolean" value="true"/>
+      </AuxValues>
+
+      <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+      <SubComponents>
+        <Component class="javax.swing.JList" name="jList4">
+          <Properties>
+            <Property name="model" type="javax.swing.ListModel" editor="org.netbeans.modules.form.editors2.ListModelEditor">
+              <StringArray count="9">
+                <StringItem index="0" value="PER&#x15e;EMBE"/>
+                <StringItem index="1" value="SABAH"/>
+                <StringItem index="2" value="&#x2022;1 yumurta"/>
+                <StringItem index="3" value="&#x2022;1/2 avokado"/>
+                <StringItem index="4" value="&#xd6;&#x11e;LEN"/>
+                <StringItem index="5" value="&#x2022;1 kase cac&#x131;k"/>
+                <StringItem index="6" value="AK&#x15e;AM"/>
+                <StringItem index="7" value="&#x2022;Mevsim salata"/>
+                <StringItem index="8" value="&#x2022;90 gr &#x131;zgara bal&#x131;k"/>
+              </StringArray>
+            </Property>
+          </Properties>
+          <AuxValues>
+            <AuxValue name="JavaCodeGenerator_TypeParameters" type="java.lang.String" value="&lt;String&gt;"/>
+          </AuxValues>
+        </Component>
+      </SubComponents>
+    </Container>
+    <Container class="javax.swing.JScrollPane" name="jScrollPane5">
+      <AuxValues>
+        <AuxValue name="autoScrollPane" type="java.lang.Boolean" value="true"/>
+      </AuxValues>
+
+      <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+      <SubComponents>
+        <Component class="javax.swing.JList" name="jList5">
+          <Properties>
+            <Property name="model" type="javax.swing.ListModel" editor="org.netbeans.modules.form.editors2.ListModelEditor">
+              <StringArray count="9">
+                <StringItem index="0" value="CUMA"/>
+                <StringItem index="1" value="SABAH"/>
+                <StringItem index="2" value="&#x2022;1 kibrit kutusu peynir"/>
+                <StringItem index="3" value="&#x2022;1 ha&#x15f;lanm&#x131;&#x15f; yumurta"/>
+                <StringItem index="4" value="&#xd6;&#x11e;LEN"/>
+                <StringItem index="5" value="&#x2022;120 gr &#x131;zgara k&#xf6;fte"/>
+                <StringItem index="6" value="&#x2022;Bol salata"/>
+                <StringItem index="7" value="AK&#x15e;AM"/>
+                <StringItem index="8" value="&#x2022;Kinoal&#x131; salata"/>
+              </StringArray>
+            </Property>
+          </Properties>
+          <AuxValues>
+            <AuxValue name="JavaCodeGenerator_TypeParameters" type="java.lang.String" value="&lt;String&gt;"/>
+          </AuxValues>
+        </Component>
+      </SubComponents>
+    </Container>
+    <Container class="javax.swing.JScrollPane" name="jScrollPane6">
+      <AuxValues>
+        <AuxValue name="autoScrollPane" type="java.lang.Boolean" value="true"/>
+      </AuxValues>
+
+      <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+      <SubComponents>
+        <Component class="javax.swing.JList" name="jList6">
+          <Properties>
+            <Property name="model" type="javax.swing.ListModel" editor="org.netbeans.modules.form.editors2.ListModelEditor">
+              <StringArray count="9">
+                <StringItem index="0" value="CUMARTES&#x130;"/>
+                <StringItem index="1" value="SABAH"/>
+                <StringItem index="2" value="&#x2022;1 kase yulaf ezmesi"/>
+                <StringItem index="3" value="&#x2022;Light s&#xfc;t"/>
+                <StringItem index="4" value="&#xd6;&#x11e;LEN"/>
+                <StringItem index="5" value="&#x2022;Maydonoz detoks suyu"/>
+                <StringItem index="6" value="AK&#x15e;AM"/>
+                <StringItem index="7" value="&#x2022;90 g f&#x131;r&#x131;nda tavuk"/>
+                <StringItem index="8" value="&#x2022;1 kase light yo&#x11f;urt"/>
+              </StringArray>
+            </Property>
+          </Properties>
+          <AuxValues>
+            <AuxValue name="JavaCodeGenerator_TypeParameters" type="java.lang.String" value="&lt;String&gt;"/>
+          </AuxValues>
+        </Component>
+      </SubComponents>
+    </Container>
+    <Container class="javax.swing.JScrollPane" name="jScrollPane7">
+      <AuxValues>
+        <AuxValue name="autoScrollPane" type="java.lang.Boolean" value="true"/>
+      </AuxValues>
+
+      <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+      <SubComponents>
+        <Component class="javax.swing.JList" name="jList7">
+          <Properties>
+            <Property name="model" type="javax.swing.ListModel" editor="org.netbeans.modules.form.editors2.ListModelEditor">
+              <StringArray count="9">
+                <StringItem index="0" value="PAZAR"/>
+                <StringItem index="1" value="SABAH"/>
+                <StringItem index="2" value="&#x2022;Maydonozlu peynirli yumurta"/>
+                <StringItem index="3" value="&#x2022;1 bardak ye&#x15f;il &#xe7;ay"/>
+                <StringItem index="4" value="&#xd6;&#x11e;LEN"/>
+                <StringItem index="5" value="&#x2022;1 porsiyon meyve salatas&#x131;"/>
+                <StringItem index="6" value="AK&#x15e;AM"/>
+                <StringItem index="7" value="&#x2022;Ha&#x15f;lanm&#x131;&#x15f; sebze"/>
+                <StringItem index="8" value="&#x2022;1 kase light yo&#x11f;urt"/>
+              </StringArray>
+            </Property>
+          </Properties>
+          <AuxValues>
+            <AuxValue name="JavaCodeGenerator_TypeParameters" type="java.lang.String" value="&lt;String&gt;"/>
+          </AuxValues>
+        </Component>
+      </SubComponents>
+    </Container>
+  </SubComponents>
+</Form>
